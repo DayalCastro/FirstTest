@@ -4,4 +4,4 @@ lets start my friend
 
 I am going to tell you my story
 
-another commit to the story
+another commit his life
